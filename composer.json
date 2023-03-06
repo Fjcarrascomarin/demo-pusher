@@ -1,0 +1,8 @@
+{
+    "config": {
+        "platform-check": false
+    },
+    "require": {
+        "pusher/pusher-php-server": "^7.2"
+    }
+}
